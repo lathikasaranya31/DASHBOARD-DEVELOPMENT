@@ -30,4 +30,6 @@
 # The West region leads in both sales and profit. Technology shows consistent high performance in both sales and margins. High discounts may negatively impact profit in certain categories. Strategic focus should be placed on growing high-margin segments while improving weak regions.
 # The storyboard provides a structured narrative, transforming raw data into actionable insights and guiding viewers through a compelling data story.
 
+# OUTPUT IMAGE
 
+[Task 3 superstore interactive dashboard output image.pdf](https://github.com/user-attachments/files/20832439/Task.3.superstore.interactive.dashboard.output.image.pdf)
